@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenBukaLapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47c3b359-c13d-48d2-94dd-93c2fb8a6319</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9efce005-b502-4ce9-ac9b-1d5d175e647d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9efce005-b502-4ce9-ac9b-1d5d175e647d</id>
+      <masked>false</masked>
+      <name>NoHP</name>
+   </variable>
+</TestCaseEntity>

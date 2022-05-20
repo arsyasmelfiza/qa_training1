@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buat akun</name>
+   <tag></tag>
+   <elementGuidId>70bf020d-29a0-4d08-b1f2-aa5f6c6b3e43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hcfe-content']/section/div/div/article/section/div/div/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5205ec06-83a5-405f-9bf1-4f1267c59728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-button</value>
+      <webElementGuid>e395c2bb-7c7f-4a91-b46f-38ef55c3702d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>420b39ff-b58a-48ba-ab4f-a3a71ba99e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://accounts.google.com/SignUp</value>
+      <webElementGuid>ddadc44e-165e-46e6-9dc5-1ed3a4e5c68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>76ddded8-3d60-4c2f-9c66-b64344c6383e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat akun </value>
+      <webElementGuid>64e465c0-858a-440d-ab69-e8924579dc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hcfe-content&quot;)/section[@class=&quot;primary-container&quot;]/div[@class=&quot;page-width-container&quot;]/div[@class=&quot;main-content&quot;]/article[@class=&quot;article page&quot;]/section[@class=&quot;article-container&quot;]/div[@class=&quot;inline-feedback__container&quot;]/div[@class=&quot;article-content-container&quot;]/div[@class=&quot;cc&quot;]/p[1]/a[@class=&quot;action-button&quot;]</value>
+      <webElementGuid>bd155c23-4de5-49c6-9e46-f68775e2bed9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hcfe-content']/section/div/div/article/section/div/div/div/p/a</value>
+      <webElementGuid>47445538-04d3-419c-b2b9-fceb5eded467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buat akun')]</value>
+      <webElementGuid>67d5302e-9841-4513-a585-c226fb65f642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan akun yang Anda buat untuk login ke Gmail.'])[1]/following::a[1]</value>
+      <webElementGuid>0e90903c-d185-42a0-a670-4887a7fa005b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ikuti langkah-langkah di layar untuk menyiapkan akun Anda.'])[1]/following::a[1]</value>
+      <webElementGuid>2b8a0616-da32-495b-abd7-b865daa7690f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama pengguna yang saya inginkan telah dipakai orang lain'])[1]/preceding::a[1]</value>
+      <webElementGuid>e6d8cd1d-6a53-4c64-b650-7821eabf8cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sudah digunakan.'])[1]/preceding::a[1]</value>
+      <webElementGuid>a6f8f56d-3115-4fec-a769-81c6f0aa3cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat akun']/parent::*</value>
+      <webElementGuid>defe08b2-6c4f-4c84-a5ce-b00277e1e63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://accounts.google.com/SignUp')])[2]</value>
+      <webElementGuid>fb4cc15a-aae4-4f8c-8e76-37780f150a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/p/a</value>
+      <webElementGuid>aa985707-8f10-44b7-b4d2-e2c0d783bf18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://accounts.google.com/SignUp' and (text() = 'Buat akun ' or . = 'Buat akun ')]</value>
+      <webElementGuid>cc947c96-5b33-4507-baac-e0aad05d0760</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

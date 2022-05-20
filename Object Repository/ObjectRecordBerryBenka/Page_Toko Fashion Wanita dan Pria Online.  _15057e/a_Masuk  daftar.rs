@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Masuk  daftar</name>
+   <tag></tag>
+   <elementGuidId>b17da605-d4ee-4b78-876e-eaa6563afbc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Masuk / daftar')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.login-trigger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>15867619-d485-4c5f-827f-2afbc1ba43c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>70320698-0485-489b-8b99-0d83c7facff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-trigger</value>
+      <webElementGuid>fff53787-c2e9-45c9-8261-bb3a860e379d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk / daftar</value>
+      <webElementGuid>4c8996a3-bcc3-467e-b6be-3d63f3e194d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sales-banner&quot;]/header[@class=&quot;header-down&quot;]/div[@class=&quot;header-right&quot;]/ul[1]/li[1]/a[@class=&quot;login-trigger&quot;]</value>
+      <webElementGuid>492e65b9-c6c0-47d2-af78-561b0534b934</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Masuk / daftar')]</value>
+      <webElementGuid>6d1c000f-7a20-4b19-8821-ea9362086be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='accessories'])[2]/following::a[2]</value>
+      <webElementGuid>ae93dab4-c78b-4a1e-ad5b-ea2875fb457d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bags'])[1]/following::a[3]</value>
+      <webElementGuid>c137f068-0cde-42b1-8eeb-bf0d7d41a14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new arrival'])[2]/preceding::a[3]</value>
+      <webElementGuid>b7589b2b-1621-4ab3-9c36-5317a1c96e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clothing'])[3]/preceding::a[4]</value>
+      <webElementGuid>ee9b5408-48c6-4ea2-bcac-4707f619d9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk / daftar']/parent::*</value>
+      <webElementGuid>43c86827-13f4-4fd4-b3b7-b58878095aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>af136594-0ab1-420a-bfa1-6daa0ff3c386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>0256d20e-80a7-4d9b-9378-3f1afb9635fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Masuk / daftar' or . = 'Masuk / daftar')]</value>
+      <webElementGuid>ade503f6-d8b5-4ae5-880b-8f4d0f44a0b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

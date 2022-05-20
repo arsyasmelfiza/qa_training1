@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenBerryBenka</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fbc33d4-d9b2-4b97-8e51-81267bc07a78</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23ee67f9-cbbe-4c30-a94a-db88ab9772f6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7ccbd8a-fdff-4829-9442-2d38d2aaaf5d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23ee67f9-cbbe-4c30-a94a-db88ab9772f6</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7ccbd8a-fdff-4829-9442-2d38d2aaaf5d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

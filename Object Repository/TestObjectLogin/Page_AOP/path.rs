@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>85bd7e76-014a-417c-a8d4-f7507520f20f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>6ef49852-4a94-4bb5-b837-574480b6c6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M14.8133 9.41351C14.5484 9.36686 14.2778 9.33301 14.0001 9.33301C11.4265 9.33301 9.33347 11.426 9.33347 13.9996C9.33347 14.2773 9.36732 14.548 9.41511 14.8128C9.46526 15.0951 9.71147 15.2946 9.98797 15.2946C10.0218 15.2946 10.0556 15.2923 10.0906 15.2853C10.4068 15.2293 10.6191 14.9259 10.5631 14.6098C10.527 14.4114 10.5001 14.2096 10.5001 13.9996C10.5001 12.07 12.0705 10.4997 14.0001 10.4997C14.2101 10.4997 14.412 10.5265 14.6103 10.5615C14.9206 10.6245 15.2298 10.4052 15.2858 10.089C15.3418 9.77286 15.1295 9.46951 14.8133 9.41351Z</value>
+      <webElementGuid>3e1b8ec8-5d52-4194-8743-f8425daae652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#709DFF</value>
+      <webElementGuid>68fc7678-9a24-487c-83e4-0a1b84c2958b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-vswk66-0 fJiAhm&quot;]/div[@class=&quot;sc-rkmhgf-0 hWVtzq&quot;]/div[@class=&quot;sc-1crxk01-0 gVKylD&quot;]/div[@class=&quot;sc-1crxk01-0 kllYhf&quot;]/div[@class=&quot;sc-1crxk01-0 inhaeL&quot;]/div[@class=&quot;sc-1uj1rn4-3 iuAPRv&quot;]/span[@class=&quot;sc-rq82e3-0 dBmkvw&quot;]/svg[1]/g[1]/path[2]</value>
+      <webElementGuid>7277663c-81e1-49a2-84d7-ce5f563130e0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

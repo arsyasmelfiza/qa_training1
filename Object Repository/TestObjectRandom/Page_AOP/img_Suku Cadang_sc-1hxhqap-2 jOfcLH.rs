@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Suku Cadang_sc-1hxhqap-2 jOfcLH</name>
+   <tag></tag>
+   <elementGuidId>9a7171d8-bacd-4174-ba08-fef8d99fa807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.sc-1hxhqap-2.jOfcLH</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/section/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8b458b6-9fc6-45e2-9037-9e8a4e36e94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://newb2c.astraotoparts.co.id/asset/aop/suku cadang.png</value>
+      <webElementGuid>a290f115-1767-4119-bd80-2e6d5feeae77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1hxhqap-2 jOfcLH</value>
+      <webElementGuid>45c724ec-b33a-4f3d-8ed8-0a0b605c8fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-1dze5zo-0 lnpKeT&quot;]/section[@class=&quot;sc-1dze5zo-1 imPRYC&quot;]/section[@class=&quot;sc-60zcpy-1 klCJsD&quot;]/div[@class=&quot;sc-1crxk01-0 ksZDNo sc-10b1rua-3 hRIagK&quot;]/div[@class=&quot;sc-1crxk01-0 gepUjx sc-1hxhqap-0 fFaRKu&quot;]/div[@class=&quot;sc-1hxhqap-3 btnGPj&quot;]/img[@class=&quot;sc-1hxhqap-2 jOfcLH&quot;]</value>
+      <webElementGuid>fdc55edc-91a0-4db9-af43-118a56b44f46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/section/div/div/div/img</value>
+      <webElementGuid>272483e5-63f0-4afa-b64d-6a290f873d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>0ab17c6e-a7c4-476f-9d9a-127e6719be2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://newb2c.astraotoparts.co.id/asset/aop/suku cadang.png']</value>
+      <webElementGuid>8d7d49fb-4564-408b-8d01-4202592c9fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

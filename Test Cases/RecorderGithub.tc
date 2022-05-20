@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecorderGithub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82af7322-e5c8-46a6-a7f9-cbe7accbfefc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b749c82e-3a72-4058-8899-0f491805bc3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1d31c7b-7a83-45dd-87e6-e975d98c5dad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48887a77-03ce-4cdc-a428-bd311044d217</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://github.com/'</defaultValue>
+      <description></description>
+      <id>b749c82e-3a72-4058-8899-0f491805bc3e</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'arsyasmelfiza'</defaultValue>
+      <description></description>
+      <id>e1d31c7b-7a83-45dd-87e6-e975d98c5dad</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'747798Aa@'</defaultValue>
+      <description></description>
+      <id>48887a77-03ce-4cdc-a428-bd311044d217</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
